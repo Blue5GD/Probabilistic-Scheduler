@@ -171,13 +171,13 @@ The actual master schedule therefore performed better on this particular metric 
 The highest-scoring generated schedule resulted in:
 
 $$
-112
+139
 $$
 
 first-choice courses, compared with:
 
 $$
-139
+112
 $$
 
 in the survey outcomes.
